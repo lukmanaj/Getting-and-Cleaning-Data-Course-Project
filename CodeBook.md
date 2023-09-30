@@ -41,5 +41,5 @@ The `run_analysis.R` script performs the data preparation followed by the five e
 
 ### Create a second, independent tidy dataset with averages
 
-- `FinalData (180 rows, 88 columns)`: Created by summarizing `TidyData` to calculate the means of each variable for each activity and subject after grouping by subject and activity.
+- `FinalData (180 rows, 50 columns)`: Created by summarizing `TidyData` to calculate the means of each variable for each activity and subject after grouping by subject and activity.
 - `FinalData` is then exported to a file named "FinalData.txt."
